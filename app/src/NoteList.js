@@ -12,7 +12,7 @@ import Col from 'react-bootstrap/Col';
 import Form from 'react-bootstrap/Form';
 
 /*
-Module that creates a subcomponent to get and display all of the notes stored in localStorage 
+Module that creates a subcomponent to get and display all of the notes stored in Postgress
 into a ListGroup where users can then click to view the entire note in a Modal or delete it
 */
 
