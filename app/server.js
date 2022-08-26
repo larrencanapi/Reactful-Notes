@@ -12,7 +12,7 @@ var pool;
 
 pool = new Pool({
     user: 'postgres',
-    host: 'postgres',
+    host: 'db',
     database: 'postgres',
     port: 5432,
     password: 'postgres'
