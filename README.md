@@ -1,4 +1,7 @@
 # Reactful Notes (React Note Taking App)
+
+A simple note-taking app to be ran locally using docker to combine the app and postgres images to run
+
 By Larren Canapi
 
 ## How to run with Docker:
@@ -21,12 +24,12 @@ will listen to requests and will respond by querying our Postgres database image
 - 1 Postgres Image that holds our database to hold all of our notes
   
 ## Packages/Libraries/Technologies Used:
-- React https://reactjs.org/
-    - Create-React-App https://github.com/facebook/create-react-app
+- PERN STACK
+  - Postgres
+  - Express
+  - React
+  - Nodejs
 - React Bootstrap https://react-bootstrap.github.io/
-- localStorage
-- Express
-- Nodejs
 - Axios
   
 ## General References (General documentation lookup for technologies)
