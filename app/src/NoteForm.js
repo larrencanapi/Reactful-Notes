@@ -10,7 +10,7 @@ import Form from 'react-bootstrap/Form';
 
 /*
 Module that creates a subcomponent to display a form to get the note title and note body to generate
-a note to store in localStorage, form has basic form validation for empty inputs
+a note to store in Postgresdb, form has basic form validation for empty inputs
 */
 
 export default function NoteForm() {
